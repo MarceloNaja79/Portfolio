@@ -47,3 +47,5 @@ Essa funcionalidade é implementada com JavaScript, garantindo uma experiência 
 <h4>Esse Projeto de Portfólio não apenas destaca minhas Habilidades Técnicas, 
 mas também reflete minha abordagem criativa e meu desejo de me conectar com outras pessoas na comunidade de desenvolvimento.
 Estou animado para Compartilhar meu Trabalho e continuar aprendendo e crescendo na Àrea!</h4>
+
+<h3> Fique avontade para acessar minha primeira page <a href=https://marcelonaja-meu-portfolio-projetos.netlify.app/ />Clique aqui</h3>
